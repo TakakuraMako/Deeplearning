@@ -5,5 +5,5 @@ test
 *.html
 *.pdf
 data
-*.xlsx
+
 *.csv
